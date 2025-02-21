@@ -17,11 +17,11 @@ A Python script for automating Google Dorking searches. This tool allows you to 
    ```
 2. Run the script:
    ```bash
-   python google_dork_tool.py example.com
+   python go_dork.py example.com
    ```
 3. Use the `--num_results` flag to specify the number of results:
    ```bash
-   python google_dork_tool.py example.com --num_results 5
+   python go_dork.py example.com --num_results 5
    ```
 
 ---
